@@ -1,0 +1,14 @@
+Each assignment should be written in its own class file. Per example, assignment 1 has 3 subquestions. This means that each subquestion needs to be made in its own .java file. Please name the files properly (Like Assignment1A per example, saves me a lot of hassle)
+
+Further tips for starting assignment 1
+
+In the folder Information, some items can be found:
+- An Example.java file. This demonstrates two methods to retrieve userinput from the command screen
+- Java for Dummies
+
+For this assignment, read:
+- Chapter 3
+- Chapter 4
+- Chapter 17
+
+If you are really interested in the internals of programs, read chapter 2. This gives you a basic overview of how things work

@@ -11,4 +11,6 @@ For this assignment, read:
 - Chapter 4
 - Chapter 17
 
-If you are really interested in the internals of programs, read chapter 2. This gives you a basic overview of how things work
+If you are really interested in the internals of programs, read chapter 2. This gives you a basic overview of how things work.
+
+As a last (general) remark, for the last assignment of 1b 2007, use the Math.Pow method. Information can be found here: http://docs.oracle.com/javase/1.4.2/docs/api/java/lang/Math.html#pow%28double,%20double%29
